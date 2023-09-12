@@ -24,12 +24,13 @@ Research Interest
 
 Academic Services
 ===
-* Reviewer of KDD 23, NeurIPS 23
+* Reviewer / PC Member of KDD 23, NeurIPS 23, ICLR 24, SDM 24
 
 
 Selected Publications
 ======
 * Yusheng Zhao, Xiao Luo, Wei Ju, Chong Chen, Xian-Sheng Hua, Ming Zhang. Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting. *ICDE (CCF-A) 2023*
+* Xiao Luo, Yusheng Zhao, Yifang Qin, Wei Ju, Ming Zhang. Towards Semi-supervised Universal Graph Classification. *TKDE (CCF-A) 2023*
 * Yusheng Zhao, Jinyu Chen, Chen Gao, Wenguan Wang, Lirong Yang, Haibing Ren, Huaxia Xia, Si Liu. Target-Driven Structured Transformer Planner for Vision-Language Navigation. *ACM MM (CCF-A) 2022 Oral*
 * Dailan He, Yusheng Zhao, Junyu Luo, Tianrui Hui, Shaofei Huang, Aixi Zhang, Si Liu. TransRefer3D: Entity-and-Relation Aware Transformer for Fine-Grained 3D Visual Grounding. *ACM MM (CCF-A) 2021 Poster*
 * Yusheng Zhao, Huanqian Yan, Xingxing Wei. Object hider: Adversarial patch attack against object detectors. *CIKM (CCF-B) Analyticup 2020*
