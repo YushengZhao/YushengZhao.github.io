@@ -24,7 +24,7 @@ Research Interest
 
 Academic Services
 ===
-* Reviewer / PC Member of KDD 23, NeurIPS 23, ICLR 24, SDM 24
+* PC Member / Conference Reviewer for KDD 23, NeurIPS 23, ICLR 24, SDM 24, ICASSP 24, ICWSM 24
 
 
 Selected Publications
