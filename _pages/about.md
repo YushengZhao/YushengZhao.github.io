@@ -39,5 +39,5 @@ Selected Publications
 * Wei Ju\*, **Yusheng Zhao**\*, Yifang Qin, Siyu Yi, Jingyang Yuan, Zhiping Xiao, Xiao Luo, Xiting Yan, and Ming Zhang. COOL: A Conjoint Perspective on Spatio-Temporal Graph Neural Network for Traffic Forecasting. *Information Fusion 2024* (JCR Q1, IF=18.6) [[PDF]](https://arxiv.org/pdf/2403.01091.pdf)
 * Xiao Luo\*, **Yusheng Zhao**\*, Yifang Qin, Wei Ju, Ming Zhang. Towards Semi-supervised Universal Graph Classification. *TKDE (CCF-A) 2023* [[PDF]](https://arxiv.org/pdf/2305.19598.pdf)
 * Dailan He\*, **Yusheng Zhao**\*, Junyu Luo\*, Tianrui Hui, Shaofei Huang, Aixi Zhang, Si Liu. TransRefer3D: Entity-and-Relation Aware Transformer for Fine-Grained 3D Visual Grounding. *ACM MM (CCF-A) 2021 Poster* [[PDF]](https://arxiv.org/pdf/2108.02388.pdf)
-* Junyu Luo, **Yusheng Zhao**, Xiao Luo, Zhiping Xiao, Wei Ju, Li Shen, Dacheng Tao, Ming Zhang. Cross-Domain Diffusion with Progressive Alignment for Efficient Adaptive Retrieval. *IEEE TIP (CCF-A)*
+* Junyu Luo, **Yusheng Zhao**, Xiao Luo, Zhiping Xiao, Wei Ju, Li Shen, Dacheng Tao, Ming Zhang. Cross-Domain Diffusion with Progressive Alignment for Efficient Adaptive Retrieval. *IEEE TIP (CCF-A)* 2025
 
