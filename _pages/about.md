@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in School of Computer Science, Peking University. I am currently researching machine learning under the supervision of Prof. [Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/). Prior to that, I received my B.Eng degree in Computer Science and Engineering from Beihang University in June 2022 under the supervision of Prof. [Si Liu](https://scholar.google.com/citations?user=-QtVtNEAAAAJ). I also work closely with Dr. [Xiao Luo](https://luoxiao12.github.io/) and Prof. [Wei Ju](https://juweipku.github.io/). 
+I am a PhD student in School of Computer Science, Peking University. I am currently researching machine learning under the supervision of Prof. [Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/). I also work closely with Prof. [Xiao Luo](https://luoxiao12.github.io/) and Prof. [Wei Ju](https://juweipku.github.io/). Prior to that, I received my B.Eng degree in Computer Science and Engineering from Beihang University in June 2022 under the supervision of Prof. [Si Liu](https://scholar.google.com/citations?user=-QtVtNEAAAAJ). 
 
 
 Research Interest
