@@ -26,6 +26,7 @@ Research Interest
 Academic Services
 ===
 * PC Member / Conference Reviewer:
+  - 2026: AAAI
   - 2025: NeurIPS, MM, ICML, AAAI, AISTATS, KDD
   - 2024: NeurIPS, MM, ICML, ICLR, SDM, ICASSP, ICWSM
   - 2023: NeurIPS, KDD
@@ -39,12 +40,12 @@ Academic Services
 
 Selected Publications
 ======
-*(<sup>\*</sup> equal contribution; <sup>†</sup> corresponding author)*
+*( <sup>\*</sup> equal contribution; <sup>†</sup> corresponding author )*
 
-* **Yusheng Zhao**, Qixin Zhang, Xiao Luo<sup>†</sup>, Junyu Luo, Wei Ju, Zhiping Xiao<sup>†</sup>, Ming Zhang<sup>†</sup>. Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes. ***ICML (<span style="color:red">CCF-A</span>) 2025***
+* **Yusheng Zhao**, Qixin Zhang, Xiao Luo<sup>†</sup>, Junyu Luo, Wei Ju, Zhiping Xiao<sup>†</sup>, Ming Zhang<sup>†</sup>. Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes. ***ICML (<span style="color:red">CCF-A</span>) 2025*** [[PDF]](https://openreview.net/pdf?id=lC40m2jjUO)
 * **Yusheng Zhao**, Junyu Luo, Xiao Luo<sup>†</sup>, Jinsheng Huang, Jingyang Yuan, Zhiping Xiao<sup>†</sup>, Ming Zhang<sup>†</sup>. Attention Bootstrapping for Multi-modal Test-time Adaptation. ***AAAI (<span style="color:red">CCF-A</span>) 2025*** [[PDF]](https://arxiv.org/abs/2503.02221) [[CODE]](https://github.com/YushengZhao/ABPEM)
 * **Yusheng Zhao**, Changhu Wang, Xiao Luo<sup>†</sup>, Junyu Luo, Wei Ju, Zhiping Xiao<sup>†</sup>, Ming Zhang<sup>†</sup>. TRACI: A Data-centric Approach for Multi-Domain Generalization on Graphs. ***AAAI (<span style="color:red">CCF-A</span>) 2025*** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/33463)
-* **Yusheng Zhao**, Xiao Luo<sup>†</sup>, Haomin Wen, Zhiping Xiao<sup>†</sup>, Wei Ju, Ming Zhang<sup>†</sup>. Embracing Large Language Models in Traffic Flow Forecasting. ***ACL (<span style="color:red">CCF-A</span>) Findings 2025***
+* **Yusheng Zhao**, Xiao Luo<sup>†</sup>, Haomin Wen, Zhiping Xiao<sup>†</sup>, Wei Ju, Ming Zhang<sup>†</sup>. Embracing Large Language Models in Traffic Flow Forecasting. ***ACL (<span style="color:red">CCF-A</span>) Findings 2025*** [[PDF]](https://aclanthology.org/2025.findings-acl.424.pdf) [[CODE]](https://github.com/YushengZhao/LEAF)
 * **Yusheng Zhao**<sup>\*</sup>, Xiao Luo<sup>\*</sup>, Wei Ju, Chong Chen, Xian-Sheng Hua, Ming Zhang<sup>†</sup>. Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting. ***ICDE (<span style="color:red">CCF-A</span>) 2023*** [[PDF]](https://arxiv.org/pdf/2309.12028.pdf) [[CODE]](https://github.com/YushengZhao/DyHSL)
 * **Yusheng Zhao**<sup>\*</sup>, Jinyu Chen<sup>\*</sup>, Chen Gao, Wenguan Wang<sup>†</sup>, Lirong Yang, Haibing Ren, Huaxia Xia, Si Liu. Target-Driven Structured Transformer Planner for Vision-Language Navigation. ***ACM MM (<span style="color:red">CCF-A</span>) 2022 Oral*** [[PDF]](https://arxiv.org/pdf/2207.11201.pdf) [[CODE]](https://github.com/YushengZhao/TD-STP)
 * **Yusheng Zhao**<sup>\*</sup>, Huanqian Yan<sup>\*</sup>, Xingxing Wei<sup>†</sup>. Object hider: Adversarial patch attack against object detectors. ***CIKM (<span style="color:red">CCF-B</span>) Analyticup 2020*** [[PDF]](https://arxiv.org/pdf/2010.14974.pdf)
