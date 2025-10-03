@@ -26,7 +26,7 @@ Research Interest
 Academic Services
 ===
 * PC Member / Conference Reviewer:
-  - 2026: AAAI
+  - 2026: ICLR, AAAI
   - 2025: NeurIPS, MM, ICML, AAAI, AISTATS, KDD
   - 2024: NeurIPS, MM, ICML, ICLR, SDM, ICASSP, ICWSM
   - 2023: NeurIPS, KDD
@@ -41,8 +41,9 @@ Academic Services
 
 Selected Publications
 ======
-*( <sup>\*</sup> equal contribution; <sup>†</sup> corresponding author )*
+<span style="color:gray">( <sup>\*</sup> equal contribution; <sup>†</sup> corresponding author )</span>
 
+* **Yusheng Zhao**, Qixin Zhang, Xiao Luo<sup>†</sup>, Weizhi Zhang, Zhiping Xiao<sup>†</sup>, Wei Ju, Philip S. Yu, Ming Zhang<sup>†</sup>. Dynamic Bundling with Large Language Models for Zero-Shot Inference on Text-Attributed Graphs. ***NeurIPS (<span style="color:red">CCF-A</span>) 2025***
 * **Yusheng Zhao**, Qixin Zhang, Xiao Luo<sup>†</sup>, Junyu Luo, Wei Ju, Zhiping Xiao<sup>†</sup>, Ming Zhang<sup>†</sup>. Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes. ***ICML (<span style="color:red">CCF-A</span>) 2025*** [[PDF]](https://openreview.net/pdf?id=lC40m2jjUO)
 * **Yusheng Zhao**, Xiao Luo<sup>†</sup>, Junyu Luo, Weizhi Zhang, Zhiping Xiao<sup>†</sup>, Wei Ju, Philip S Yu, Ming Zhang<sup>†</sup>. Multifaceted Evaluation of Audio-Visual Capability for MLLMs: Effectiveness, Efficiency, Generalizability and Robustness. ***EMNLP (<span style="color:red">CCF-B</span>) 2025***
 * **Yusheng Zhao**, Xiao Luo<sup>†</sup>, Haomin Wen, Zhiping Xiao<sup>†</sup>, Wei Ju, Ming Zhang<sup>†</sup>. Embracing Large Language Models in Traffic Flow Forecasting. ***ACL (<span style="color:red">CCF-A</span>) 2025*** [[PDF]](https://aclanthology.org/2025.findings-acl.424.pdf) [[CODE]](https://github.com/YushengZhao/LEAF)
