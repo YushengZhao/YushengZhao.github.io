@@ -25,8 +25,10 @@ Research Interest
 
 Academic Services
 ===
+* Area Chair:
+  - 2026: ICASSP
 * PC Member / Conference Reviewer:
-  - 2026: ICLR, AAAI
+  - 2026: ICLR, AAAI, AISTATS
   - 2025: NeurIPS, MM, ICML, AAAI, AISTATS, KDD
   - 2024: NeurIPS, MM, ICML, ICLR, SDM, ICASSP, ICWSM
   - 2023: NeurIPS, KDD
@@ -43,9 +45,9 @@ Selected Publications
 ======
 <span style="color:gray">( <sup>\*</sup> equal contribution; <sup>†</sup> corresponding author )</span>
 
-* **Yusheng Zhao**, Qixin Zhang, Xiao Luo<sup>†</sup>, Weizhi Zhang, Zhiping Xiao<sup>†</sup>, Wei Ju, Philip S. Yu, Ming Zhang<sup>†</sup>. Dynamic Bundling with Large Language Models for Zero-Shot Inference on Text-Attributed Graphs. ***NeurIPS (<span style="color:red">CCF-A</span>) 2025***
-* **Yusheng Zhao**, Qixin Zhang, Xiao Luo<sup>†</sup>, Junyu Luo, Wei Ju, Zhiping Xiao<sup>†</sup>, Ming Zhang<sup>†</sup>. Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes. ***ICML (<span style="color:red">CCF-A</span>) 2025*** [[PDF]](https://openreview.net/pdf?id=lC40m2jjUO)
-* **Yusheng Zhao**, Xiao Luo<sup>†</sup>, Junyu Luo, Weizhi Zhang, Zhiping Xiao<sup>†</sup>, Wei Ju, Philip S Yu, Ming Zhang<sup>†</sup>. Multifaceted Evaluation of Audio-Visual Capability for MLLMs: Effectiveness, Efficiency, Generalizability and Robustness. ***EMNLP (<span style="color:red">CCF-B</span>) 2025***
+* **Yusheng Zhao**, Qixin Zhang, Xiao Luo<sup>†</sup>, Weizhi Zhang, Zhiping Xiao<sup>†</sup>, Wei Ju, Philip S. Yu, Ming Zhang<sup>†</sup>. Dynamic Bundling with Large Language Models for Zero-Shot Inference on Text-Attributed Graphs. ***NeurIPS (<span style="color:red">CCF-A</span>) 2025*** [[PDF]](https://openreview.net/pdf/d615b950a359ab4cc2684209840bedfc61f6d59e.pdf)
+* **Yusheng Zhao**, Qixin Zhang, Xiao Luo<sup>†</sup>, Junyu Luo, Wei Ju, Zhiping Xiao<sup>†</sup>, Ming Zhang<sup>†</sup>. Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes. ***ICML (<span style="color:red">CCF-A</span>) 2025*** [[PDF]](https://openreview.net/pdf?id=lC40m2jjUO) [[CODE]](https://github.com/YushengZhao/ASSESS)
+* **Yusheng Zhao**, Xiao Luo<sup>†</sup>, Junyu Luo, Weizhi Zhang, Zhiping Xiao<sup>†</sup>, Wei Ju, Philip S Yu, Ming Zhang<sup>†</sup>. Multifaceted Evaluation of Audio-Visual Capability for MLLMs: Effectiveness, Efficiency, Generalizability and Robustness. ***EMNLP (<span style="color:red">CCF-B</span>) 2025*** [[PDF]](https://aclanthology.org/2025.findings-emnlp.54.pdf)
 * **Yusheng Zhao**, Xiao Luo<sup>†</sup>, Haomin Wen, Zhiping Xiao<sup>†</sup>, Wei Ju, Ming Zhang<sup>†</sup>. Embracing Large Language Models in Traffic Flow Forecasting. ***ACL (<span style="color:red">CCF-A</span>) 2025*** [[PDF]](https://aclanthology.org/2025.findings-acl.424.pdf) [[CODE]](https://github.com/YushengZhao/LEAF)
 * **Yusheng Zhao**, Junyu Luo, Xiao Luo<sup>†</sup>, Jinsheng Huang, Jingyang Yuan, Zhiping Xiao<sup>†</sup>, Ming Zhang<sup>†</sup>. Attention Bootstrapping for Multi-modal Test-time Adaptation. ***AAAI (<span style="color:red">CCF-A</span>) 2025*** [[PDF]](https://arxiv.org/abs/2503.02221) [[CODE]](https://github.com/YushengZhao/ABPEM)
 * **Yusheng Zhao**, Changhu Wang, Xiao Luo<sup>†</sup>, Junyu Luo, Wei Ju, Zhiping Xiao<sup>†</sup>, Ming Zhang<sup>†</sup>. TRACI: A Data-centric Approach for Multi-Domain Generalization on Graphs. ***AAAI (<span style="color:red">CCF-A</span>) 2025*** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/33463)
