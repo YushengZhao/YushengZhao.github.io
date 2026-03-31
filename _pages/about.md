@@ -13,32 +13,17 @@ I am a PhD student in School of Computer Science, Peking University. I am curren
 
 Research Interest
 ======
-* Large Language Models
-* Machine Learning with Graphs
-* Spatio-temporal Forecasting
-* Multi-modal Learning
+Large Language Models: Pretraining, Continue-Pretraining, RLVR
 
+<span style="color:red; font-weight: bold;">I am about to graduate in 2027. Open to intern opportunities in LLM pretraining.</span>
 
 <!-- <span style="color:red">News</span>
 ======
  -->
 
-Academic Services
-===
-* Area Chair:
-  - 2026: ICASSP
-* PC Member / Conference Reviewer:
-  - 2026: ICLR, AAAI, AISTATS
-  - 2025: NeurIPS, MM, ICML, AAAI, AISTATS, KDD
-  - 2024: NeurIPS, MM, ICML, ICLR, SDM, ICASSP, ICWSM
-  - 2023: NeurIPS, KDD
-* Journal Reviewer:
-  - IEEE Transactions on Knowledge and Data Engineering (TKDE)
-  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-  - IEEE Transactions on Artificial Intelligence
-  - IEEE Internet of Things Journal
-  - GeoInformatica
-  - The Journal of Supercomputing
+Preprints
+======
+* Switch Attention: Towards Dynamic and Fine-grained Hybrid Transformers. **Yusheng Zhao**, Hourun Li, Bohan Wu, Jingyang Yuan, Meng Zhang, Yichun Yin, Lifeng Shang, Ming Zhang. Preprint 2026 [[PDF]](https://arxiv.org/abs/2603.26380)
 
 
 Selected Publications
@@ -58,3 +43,21 @@ Selected Publications
 * **Yusheng Zhao**<sup>\*</sup>, Jinyu Chen<sup>\*</sup>, Chen Gao, Wenguan Wang<sup>†</sup>, Lirong Yang, Haibing Ren, Huaxia Xia, Si Liu. Target-Driven Structured Transformer Planner for Vision-Language Navigation. ***ACM MM (<span style="color:red">CCF-A</span>) 2022 Oral*** [[PDF]](https://arxiv.org/pdf/2207.11201.pdf) [[CODE]](https://github.com/YushengZhao/TD-STP)
 * Dailan He<sup>\*</sup>, **Yusheng Zhao**<sup>\*</sup>, Junyu Luo<sup>\*</sup>, Tianrui Hui, Shaofei Huang, Aixi Zhang, Si Liu<sup>†</sup>. TransRefer3D: Entity-and-Relation Aware Transformer for Fine-Grained 3D Visual Grounding. ***ACM MM (<span style="color:red">CCF-A</span>) 2021*** [[PDF]](https://arxiv.org/pdf/2108.02388.pdf) [[CODE]](https://github.com/YushengZhao/TransRefer3D)
 * **Yusheng Zhao**<sup>\*</sup>, Huanqian Yan<sup>\*</sup>, Xingxing Wei<sup>†</sup>. Object hider: Adversarial patch attack against object detectors. ***CIKM (<span style="color:red">CCF-B</span>) Analyticup 2020*** [[PDF]](https://arxiv.org/pdf/2010.14974.pdf)
+
+
+Academic Services
+===
+* Area Chair:
+  - 2026: ICASSP
+* PC Member / Conference Reviewer:
+  - 2026: ICLR, AAAI, AISTATS
+  - 2025: NeurIPS, MM, ICML, AAAI, AISTATS, KDD
+  - 2024: NeurIPS, MM, ICML, ICLR, SDM, ICASSP, ICWSM
+  - 2023: NeurIPS, KDD
+* Journal Reviewer:
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+  - IEEE Transactions on Artificial Intelligence
+  - IEEE Internet of Things Journal
+  - GeoInformatica
+  - The Journal of Supercomputing
