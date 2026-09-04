@@ -13,22 +13,24 @@ I am a PhD student in School of Computer Science, Peking University. I am curren
 
 Research Interest
 ======
-Large Language Models: Pretraining, Continue-Pretraining, RLVR
+Large Language Models: pretrain/midtrain (long-context modeling), RLVR, LLM agent.
 
-<span style="color:red; font-weight: bold;">I am about to graduate in 2027. Open to intern opportunities in LLM pretraining.</span>
+<span style="color:red; font-weight: bold;">I am about to graduate in 2027. Open to job opportunities in LLM pretrain/midtrain (long-context modeling).</span>
 
 <!-- <span style="color:red">News</span>
 ======
  -->
 
-Preprints
-======
-* Switch Attention: Towards Dynamic and Fine-grained Hybrid Transformers. **Yusheng Zhao**, Hourun Li, Bohan Wu, Jingyang Yuan, Meng Zhang, Yichun Yin, Lifeng Shang, Ming Zhang. Preprint 2026 [[PDF]](https://arxiv.org/abs/2603.26380)
+<!-- Preprints
+====== -->
+
 
 
 Selected Publications
 ======
 <span style="color:gray">( <sup>\*</sup> equal contribution; <sup>†</sup> corresponding author )</span>
+
+* **Yusheng Zhao**, Hourun Li, Bohan Wu, Yichun Yin, Lifeng Shang, Jingyang Yuan<sup>†</sup>, Meng Zhang<sup>†</sup>, Ming Zhang<sup>†</sup>. Switch Attention: Towards Dynamic and Fine-grained Hybrid Transformers. ***EMNLP (<span style="color:red">CCF-B</span>) 2026*** [[PDF]](https://arxiv.org/abs/2603.26380) [[CODE]](https://github.com/YushengZhao/SwitchAttentionKernels)
 
 * Zhiping Xiao<sup>\*</sup>, **Yusheng Zhao**<sup>\*</sup>, Qixin Zhang<sup>\*</sup>, Jiaye Xie<sup>†</sup>, Wanjia Zhao, Weizhi Zhang, Xiao Luo<sup>†</sup>, Philip S. Yu, Ming Zhang<sup>†</sup>. Sample Lottery: Unsupervised Discovery of Critical Instances in RLVR of LLMs. ***ICLR (<span style="color:red">CCF-A</span>) 2026*** [[PDF]](https://openreview.net/pdf?id=76OZBE4Rb6) [[CODE]](https://github.com/YushengZhao/SampleLottery)
 * **Yusheng Zhao**, Qixin Zhang, Xiao Luo<sup>†</sup>, Weizhi Zhang, Zhiping Xiao<sup>†</sup>, Wei Ju, Philip S. Yu, Ming Zhang<sup>†</sup>. Dynamic Bundling with Large Language Models for Zero-Shot Inference on Text-Attributed Graphs. ***NeurIPS (<span style="color:red">CCF-A</span>) 2025*** [[PDF]](https://openreview.net/pdf/d615b950a359ab4cc2684209840bedfc61f6d59e.pdf) [[CODE]](https://github.com/YushengZhao/bundle-neurips25)
